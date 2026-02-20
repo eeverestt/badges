@@ -2,10 +2,10 @@
 
 ```HTML
 <!-- SVG version -->
-<img alt="fv" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/codeberg_vector.svg">
+<img alt="fv" height="56" src="https://github.com/eeverestt/badges/blob/main/assets/cozy/failedvoyage/cozy_vector.svg">
 
 <!-- PNG version -->
-<img alt="fv" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/codeberg_64h.png">
+<img alt="fv" height="56" src="https://github.com/eeverestt/badges/blob/main/assets/cozy/failedvoyage/cozy_64h.png">
 ```
 ## Markdown
 
