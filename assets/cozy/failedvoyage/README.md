@@ -1,6 +1,8 @@
 ## Quick Add
 I'd reccomend using this HTML
-`<img alt="fv" height="56" src="https://raw.githubusercontent.com/eeverestt/badges/refs/heads/main/assets/cozy/failedvoyage/cozy_vector.svg">`
+```HTML
+<img alt="fv" height="56" src="https://raw.githubusercontent.com/eeverestt/badges/refs/heads/main/assets/cozy/failedvoyage/cozy_vector.svg">
+```
 
 
 ## HTML (Recommended)
