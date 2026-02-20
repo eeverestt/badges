@@ -4,6 +4,9 @@
 I'd reccomend using this HTML
 ```HTML
 <img alt="fv" height="56" src="https://raw.githubusercontent.com/eeverestt/badges/refs/heads/main/assets/cozy/failedvoyage/cozy_vector.svg">
+
+<!-- CENTRED -->
+<center><img alt="fv" height="56" align="middle" src="https://raw.githubusercontent.com/eeverestt/badges/refs/heads/main/assets/cozy/failedvoyage/cozy_vector.svg"></center>
 ```
 
 
